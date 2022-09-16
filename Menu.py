@@ -6,7 +6,7 @@ class Menu():
         self.MenuPrincipal(self.lsObjProducto)
 
     def MenuPrincipal(self, lsProducto):
-        while True:
+        while True: 
             print("-----------------------------")
             print("Elija la opcion correcta:")
             print("1) Alta de producto")
